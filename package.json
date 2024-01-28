@@ -1,0 +1,23 @@
+{
+  "name": "flashcards-handlebars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "flashcards.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bornoflightning/flashcards-handlebars.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bornoflightning/flashcards-handlebars/issues"
+  },
+  "homepage": "https://github.com/bornoflightning/flashcards-handlebars#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^7.1.2"
+  }
+}
